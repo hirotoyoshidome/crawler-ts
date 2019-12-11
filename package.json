@@ -1,0 +1,29 @@
+{
+  "name": "crawler-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirotoyoshidome/crawler-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirotoyoshidome/crawler-ts/issues"
+  },
+  "homepage": "https://github.com/hirotoyoshidome/crawler-ts#readme",
+  "dependencies": {
+    "@types/chardet": "^0.8.0",
+    "@types/jsdom": "^12.2.4",
+    "@types/request-promise-native": "^1.0.17",
+    "chardet": "^0.8.0",
+    "iconv-lite": "^0.5.0",
+    "jsdom": "^15.2.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  }
+}
